@@ -32,7 +32,7 @@
     <dependency>
       <groupId>net.sf.okapi.connectors</groupId>
       <artifactId>okapi-connector-microsoft</artifactId>
-      <version>${okapi.version}</version>
+      <version>0.35-VISTATEC</version>
       <exclusions>
         <exclusion>
           <groupId>org.slf4j</groupId>
